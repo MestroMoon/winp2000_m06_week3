@@ -25,9 +25,16 @@ Linus Torvalds serves as the lead maintainer of the Linux kernel. The stable bra
 
 ## Section 3: Basic Linux Commands
 ## Basic Commands
-- `whoami` : 
-- `ls`: Lists files and directories in the current directory.
+- `whoami` : show your username
+- `ls`: lists files and directories in the current directory.
+- `pwd` : show current directory
+- `mkdir <dir_name>` : make directory dir
+- `rm <file_name>` : delete the file or directory
+- `cp` : copy a file and directories
+- `mv` : Move/rename files and directories.
+- `find` : Search for files and directories.
+- `chmod` : change file permissions.
+- `chown` : change file ownership.
 
 ## Conclusion
-
 
