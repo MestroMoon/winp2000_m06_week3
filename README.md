@@ -24,7 +24,7 @@ Linus Torvalds serves as the lead maintainer of the Linux kernel. The stable bra
 **Mint** : Linux Mint is set up to be very, very easy to use for Windows migrants. It includes a similar desktop feel to Windows, and it comes with software pre-installed that you'll most likely need.
 
 ## Section 3: Basic Linux Commands
-## Basic Commands
+### Basic Commands
 - `whoami` : show your username
 - `ls`: lists files and directories in the current directory.
 - `pwd` : show current directory
@@ -36,5 +36,10 @@ Linus Torvalds serves as the lead maintainer of the Linux kernel. The stable bra
 - `chmod` : change file permissions.
 - `chown` : change file ownership.
 
+### File System
+- `/`: Root directory of the Linux file system, serving as the top-level hierarchy for all files and directories.
+- `/root` : home of root directory.
+
 ## Conclusion
+Linux is both for advanced users and beginners since it offers the opportunity to learn its commands, ways to place your own server on a localhost, and therefore apply the same processes on a production environment. You may engage in advanced projects, such as making your own mail server, or start with something simpler, such as running a basic web server.
 
